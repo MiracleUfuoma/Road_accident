@@ -3,6 +3,9 @@ Analysis of road accident in the US
 
 I created a interactive dashboard regarding Road Accident Analysis.
 
+<img width="960" alt="2023-10-23" src="https://github.com/MiracleUfuoma/Road_accident/assets/146808167/80fd7eaa-f274-474a-8a94-cfb190ec668f">
+
+
 Steps involved :
 
 Extracting the data from Kaggle.
